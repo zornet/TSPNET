@@ -1,0 +1,11 @@
+E:\Facultate\TSP.NET\Labs\Lab6_WCF_EF\Lab6_WCF_EF\obj\Debug\Lab6_WCF_EF.csprojAssemblyReference.cache
+E:\Facultate\TSP.NET\Labs\Lab6_WCF_EF\Lab6_WCF_EF\bin\Debug\Lab6_WCF_EF.dll.config
+E:\Facultate\TSP.NET\Labs\Lab6_WCF_EF\Lab6_WCF_EF\bin\Debug\Lab6_WCF_EF.dll
+E:\Facultate\TSP.NET\Labs\Lab6_WCF_EF\Lab6_WCF_EF\bin\Debug\Lab6_WCF_EF.pdb
+E:\Facultate\TSP.NET\Labs\Lab6_WCF_EF\Lab6_WCF_EF\bin\Debug\EntityFramework.dll
+E:\Facultate\TSP.NET\Labs\Lab6_WCF_EF\Lab6_WCF_EF\bin\Debug\EntityFramework.SqlServer.dll
+E:\Facultate\TSP.NET\Labs\Lab6_WCF_EF\Lab6_WCF_EF\bin\Debug\EntityFramework.xml
+E:\Facultate\TSP.NET\Labs\Lab6_WCF_EF\Lab6_WCF_EF\bin\Debug\EntityFramework.SqlServer.xml
+E:\Facultate\TSP.NET\Labs\Lab6_WCF_EF\Lab6_WCF_EF\obj\Debug\Lab6_WCF_EF.csproj.CopyComplete
+E:\Facultate\TSP.NET\Labs\Lab6_WCF_EF\Lab6_WCF_EF\obj\Debug\Lab6_WCF_EF.dll
+E:\Facultate\TSP.NET\Labs\Lab6_WCF_EF\Lab6_WCF_EF\obj\Debug\Lab6_WCF_EF.pdb

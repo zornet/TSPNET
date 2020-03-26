@@ -1,0 +1,11 @@
+E:\Facultate\TSP.NET\Labs\Lab6_WCF_EF\ObjectWCF\bin\Debug\ObjectWCF.dll
+E:\Facultate\TSP.NET\Labs\Lab6_WCF_EF\ObjectWCF\bin\Debug\ObjectWCF.pdb
+E:\Facultate\TSP.NET\Labs\Lab6_WCF_EF\ObjectWCF\bin\Debug\Lab6_WCF_EF.dll
+E:\Facultate\TSP.NET\Labs\Lab6_WCF_EF\ObjectWCF\bin\Debug\EntityFramework.dll
+E:\Facultate\TSP.NET\Labs\Lab6_WCF_EF\ObjectWCF\bin\Debug\Lab6_WCF_EF.pdb
+E:\Facultate\TSP.NET\Labs\Lab6_WCF_EF\ObjectWCF\bin\Debug\Lab6_WCF_EF.dll.config
+E:\Facultate\TSP.NET\Labs\Lab6_WCF_EF\ObjectWCF\bin\Debug\EntityFramework.xml
+E:\Facultate\TSP.NET\Labs\Lab6_WCF_EF\ObjectWCF\obj\Debug\ObjectWCF.csprojAssemblyReference.cache
+E:\Facultate\TSP.NET\Labs\Lab6_WCF_EF\ObjectWCF\obj\Debug\ObjectWCF.csproj.CopyComplete
+E:\Facultate\TSP.NET\Labs\Lab6_WCF_EF\ObjectWCF\obj\Debug\ObjectWCF.dll
+E:\Facultate\TSP.NET\Labs\Lab6_WCF_EF\ObjectWCF\obj\Debug\ObjectWCF.pdb
